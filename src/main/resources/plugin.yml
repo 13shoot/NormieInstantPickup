@@ -1,0 +1,4 @@
+name: NormieInstantPickup
+version: 1.0
+main: me.normie.instantpickup.NormieInstantPickup
+api-version: 1.21
